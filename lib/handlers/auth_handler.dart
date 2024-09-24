@@ -5,6 +5,7 @@ import 'package:sport_app/models/models.dart';
 import '../configs/configs.dart';
 import '../utilities/utilities.dart';
 
+
 class AuthHandler {
   final Connection connection;
 
